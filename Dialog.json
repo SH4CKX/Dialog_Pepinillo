@@ -5,7 +5,7 @@
   "WhatsNew": "🟣 Nuevo diseño de interfaz\n⭐ Se agregaron nuevos mods\n⚡️ Mejoras en el rendimiento\n🐛 Corrección de errores",
   "Button1": "CONTACTAR AL ADMINISTRADOR",
   "Button1Url": "https://discord.com/invite/4wByqzygPp",
-  "2Button": false,
+  "2Button": true,
   "ShowTimer": true,
   "TargetTime": "2027-12-30 18:00:00"
 }

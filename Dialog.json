@@ -1,10 +1,11 @@
 {
   "Version": "21.132.1",
   "Title": "Actualización disponible",
-  "Subtitle": "Nueva versión 26.45.1",
+  "Subtitle": "Versión Actual 21.132.1",
   "WhatsNew": "🟣 Nuevo diseño de interfaz\n⭐ Se agregaron nuevos mods\n⚡️ Mejoras en el rendimiento\n🐛 Corrección de errores",
-  "Button1": "ACTUALIZA AHORA",
-  "Button1Url": "https://www.ahhgust.com/mundo-pepinillo",
+  "Button1": "CONTACTAR AL ADMINISTRADOR",
+  "Button1Url": "https://discord.com/invite/4wByqzygPp",
   "2Button": false,
-  "ShowTimer": false,
+  "ShowTimer": true,
+  "TargetTime": "2027-12-30 18:00:00"
 }
